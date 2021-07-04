@@ -1,0 +1,8 @@
+bl_number,service_order_id,service_order_type,clearance_vendor_name,requested_date,defect_count,defect_code,milestone_id,milestone_description,milestone_date,notes,sort_order
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,9ca13353-f336-4376-a347-6849ae6d1840,"Docs received date",2021-04-28,,10
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,8623e550-9497-4d86-b719-c50d4c8d4444,"D/O collection date",2021-05-24,,20
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,98ab24fd-73ee-4464-b5de-9aeadad37a63,"Customs file submission date",2021-05-21,,30
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,e22188f4-2d74-443e-a410-65c7cfff7d69,"Ready for duty payment (Date)",2021-05-24,,40
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,f4a68a21-9e4a-488f-8483-ca15fd0d82ff,"Duty payment/Final bayan date ",2021-05-24,,50
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,c71e14c3-55ee-478f-a92d-57d986b93855,"Shipment ready or on-hold",2021-05-25,,60
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,36142434-65f0-4ac7-8c8c-da35099912ce,"Shipment cleared date",2021-05-25,,70

@@ -1,0 +1,29 @@
+bl_number,service_order_id,service_order_type,clearance_vendor_name,requested_date,defect_count,defect_code,milestone_id,milestone_description,milestone_date,notes,sort_order
+205540961,18192e24-9cca-4135-9f32-640b9756bef8,CLR,"AWAD JARALLAH AL QAHTANI",2021-04-29,3,D02,73a9487f-567a-41f7-9cee-114e0912cb3a,"Docs received date",2021-05-25,"Shipment was first planned to discharged at Jeddah but routed to Dammam by mistake. Shipment went under auction yard due to no clearance and later on CS offered this shipment to exeuction to clear from Dammam and deliver to Jeddah. Shipment was requi",10
+205540961,18192e24-9cca-4135-9f32-640b9756bef8,CLR,"AWAD JARALLAH AL QAHTANI",2021-04-29,3,D02,aec41469-fdec-44c0-a029-982bf3c885eb,"D/O collection date",2021-05-10,,20
+205540961,18192e24-9cca-4135-9f32-640b9756bef8,CLR,"AWAD JARALLAH AL QAHTANI",2021-04-29,3,D02,e2c95cf7-7c93-4eaa-96a0-34689bddccca,"Customs file submission date",2021-05-26,"Shipment went under dog inspection, x-ray and manual inspection. Customs complained that COO could not be find and it was not the first time this issue happened with this customer. ",30
+205540961,18192e24-9cca-4135-9f32-640b9756bef8,CLR,"AWAD JARALLAH AL QAHTANI",2021-04-29,3,D02,90e24171-dff4-4d32-b685-19d2481f6ad4,"Ready for duty payment (Date)",2021-06-22,,40
+205540961,18192e24-9cca-4135-9f32-640b9756bef8,CLR,"AWAD JARALLAH AL QAHTANI",2021-04-29,3,D02,6a382e8b-f4c4-4164-869e-38013dc0beff,"Duty payment/Final bayan date ",2021-06-23,,50
+205540961,18192e24-9cca-4135-9f32-640b9756bef8,CLR,"AWAD JARALLAH AL QAHTANI",2021-04-29,3,D02,68bf92fa-6ece-4f64-9f8a-a7ba11db05bd,"Shipment ready or on-hold",2021-05-26,,60
+205540961,18192e24-9cca-4135-9f32-640b9756bef8,CLR,"AWAD JARALLAH AL QAHTANI",2021-04-29,3,D02,1d3acd41-5dba-4a95-99fe-c2893817e5a3,"Shipment cleared date",2021-06-23,,70
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,9ca13353-f336-4376-a347-6849ae6d1840,"Docs received date",2021-04-28,,10
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,8623e550-9497-4d86-b719-c50d4c8d4444,"D/O collection date",2021-05-24,,20
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,98ab24fd-73ee-4464-b5de-9aeadad37a63,"Customs file submission date",2021-05-21,,30
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,e22188f4-2d74-443e-a410-65c7cfff7d69,"Ready for duty payment (Date)",2021-05-24,,40
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,f4a68a21-9e4a-488f-8483-ca15fd0d82ff,"Duty payment/Final bayan date ",2021-05-24,,50
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,c71e14c3-55ee-478f-a92d-57d986b93855,"Shipment ready or on-hold",2021-05-25,,60
+208234406,b5ab634b-386d-4da8-8ada-ee201373653d,CLR,"AL WARED AL BAHRI",2021-05-21,0,D01,36142434-65f0-4ac7-8c8c-da35099912ce,"Shipment cleared date",2021-05-25,,70
+1KT124676,d95bf3ea-a308-46af-889c-1b75d5397a55,CLR,"AL WARED AL BAHRI",2021-05-06,0,D01,2fa367d8-6eaf-4948-bc50-771dbd14a8d4,"Docs received date",2021-05-05,RECEIVED,10
+1KT124676,d95bf3ea-a308-46af-889c-1b75d5397a55,CLR,"AL WARED AL BAHRI",2021-05-06,0,D01,0b954282-e7bd-4967-ace5-f1aef1e980f5,"Manifest received date",2021-05-12,RECEIVED,20
+1KT124676,d95bf3ea-a308-46af-889c-1b75d5397a55,CLR,"AL WARED AL BAHRI",2021-05-06,0,D01,808d17c4-21c2-4bbf-97b1-24599e6f0be7,"Customs file submission date",2021-05-05,RECEIVED,30
+1KT124676,d95bf3ea-a308-46af-889c-1b75d5397a55,CLR,"AL WARED AL BAHRI",2021-05-06,0,D01,305e0f65-4b12-4da2-98ce-5f6d4c0ff611,"Initial Bayan date",2021-05-19,RECEIVED,40
+1KT124676,d95bf3ea-a308-46af-889c-1b75d5397a55,CLR,"AL WARED AL BAHRI",2021-05-06,0,D01,0b8773c9-612d-4683-89c5-4ca6bc53e9cd,"Final bayan date",2021-05-19,RECEIVED,50
+1KT124676,d95bf3ea-a308-46af-889c-1b75d5397a55,CLR,"AL WARED AL BAHRI",2021-05-06,0,D01,c7b5fc8b-fb87-4a45-924e-5085dcb9ee31,"Shipment ready or on-hold",2021-05-19,RECEIVED,60
+1KT124676,d95bf3ea-a308-46af-889c-1b75d5397a55,CLR,"AL WARED AL BAHRI",2021-05-06,0,D01,f0c292f5-6501-4f27-abd4-1e34c0e4e9ac,"Shipment cleared date",2021-05-19,RECEIVED,70
+208513744,f7f34ceb-bf6c-457c-b8f1-ca6582b2bcaa,CLR,"AL WARED AL BAHRI",2021-05-07,0,D01,0e0ab36c-4b2d-4733-b9fc-cf10ce0935fd,"Docs received date",2021-05-27,,10
+208513744,f7f34ceb-bf6c-457c-b8f1-ca6582b2bcaa,CLR,"AL WARED AL BAHRI",2021-05-07,0,D01,69043b15-970e-4117-946a-276a246b7ae1,"D/O collection date",2021-06-07,,20
+208513744,f7f34ceb-bf6c-457c-b8f1-ca6582b2bcaa,CLR,"AL WARED AL BAHRI",2021-05-07,0,D01,a1845802-d70d-4403-ae27-bc957f88b457,"Customs file submission date",2021-05-27,,30
+208513744,f7f34ceb-bf6c-457c-b8f1-ca6582b2bcaa,CLR,"AL WARED AL BAHRI",2021-05-07,0,D01,a4ad0b6f-7882-4612-a3a7-6976c27913ad,"Ready for duty payment (Date)",2021-06-07,,40
+208513744,f7f34ceb-bf6c-457c-b8f1-ca6582b2bcaa,CLR,"AL WARED AL BAHRI",2021-05-07,0,D01,ba5b6877-877c-44e2-9941-ac7600b82911,"Duty payment/Final bayan date ",2021-06-07,,50
+208513744,f7f34ceb-bf6c-457c-b8f1-ca6582b2bcaa,CLR,"AL WARED AL BAHRI",2021-05-07,0,D01,b597543e-e672-4231-aa51-5a1b90e42984,"Shipment ready or on-hold",2021-06-07,,60
+208513744,f7f34ceb-bf6c-457c-b8f1-ca6582b2bcaa,CLR,"AL WARED AL BAHRI",2021-05-07,0,D01,674ea0b5-9df8-4fb5-a462-bb88529a7d90,"Shipment cleared date",2021-06-07,,70

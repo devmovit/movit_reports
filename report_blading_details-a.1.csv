@@ -1,0 +1,2 @@
+account_manager,bl_number,job_order_date,customer_name,consignee_name,shipment_type,scope_of_work,service_type,cargo_type,carrier,vessel_code,container_count,commodity,shipment_date,terminal,shipment_location,overseas_port,gcss_updatedate,kewill_jobno,kewill_invoiceno,cro_date
+NULL,208234406,2021-06-06,"INTERNATIONAL TIMBER CO LTD","INTERNATIONAL TIMBER CO LTD",IMPORT,IH+CCD,CY,DRY,MSL,,3,TIMBER,2021-05-22,KAP,KAP,KAP,0000-00-00,,,0000-00-00
